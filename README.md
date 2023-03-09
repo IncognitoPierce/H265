@@ -1,16 +1,16 @@
 # INSTALL
-'''bash
+```bash
 pkg install git python ffmpeg
-'''
-'''bash
+```
+```bash
 git clone
-'''
-'''bash
+```
+```bash
 pip install ffmpeg ffmpeg-python
-'''
-'''bash
+```
+```bash
 cd H265
 '''
-'''bash
+```bash
 Python main.py
-'''
+```
