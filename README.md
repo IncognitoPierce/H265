@@ -3,7 +3,7 @@
 pkg install git python ffmpeg
 ```
 ```bash
-git clone
+git clone https://github.com/ouvr/H265
 ```
 ```bash
 pip install ffmpeg ffmpeg-python
