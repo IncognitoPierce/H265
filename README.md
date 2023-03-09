@@ -12,5 +12,5 @@ pip install ffmpeg ffmpeg-python
 cd H265
 ```
 ```bash
-Python main.py
+python main.py
 ```
